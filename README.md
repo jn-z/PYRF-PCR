@@ -1,3 +1,6 @@
+PYRF-PCR
+a novel three-stage outdoor point cloud registration algorithm, including preprocessing, yaw angle estimation, coarse registration, and fine registration (in short, PYRF-PCR)
+
 1. Software:
 Python and Matlab are required to implement the algorithm described in this paper:
 Python version is 3.6.8
